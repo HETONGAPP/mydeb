@@ -36,7 +36,7 @@ gpg --export-secret-keys "hetongapp@gmail.com" > my-private-key.asc
 ```bash
 gpg --import my-private-key.asc
 ```
-#IN YOUR REPO FOLDER
+# IN YOUR REPO FOLDER
 ```bash
 gpg --armor --export "hetongapp@gmail.com" > /path/to/my_ppa/KEY.gpg 
 ```
@@ -67,7 +67,7 @@ sudo apt install webrtc
 ```
 
 
-#HOW TO ADD NEW DEB FILES
+# HOW TO ADD NEW DEB FILES
 ```bash
 # Packages & Packages.gz
 dpkg-scanpackages --multiversion . > Packages
@@ -79,4 +79,4 @@ gpg --default-key "hetongapp@gmail.com" -abs -o - Release > Release.gpg
 gpg --default-key "hetongapp@gmail.com" --clearsign -o - Release > InRelease
 ```
 
-#THEN PUSH
+# THEN PUSH
