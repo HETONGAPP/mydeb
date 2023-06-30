@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/mydeb.gpg] https://HETONGAPP.github.io/mydeb ./
+deb [signed-by=/etc/apt/trusted.gpg.d/mydeb.gpg] https://github.com/HETONGAPP/mydeb ./
