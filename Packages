@@ -1,0 +1,17 @@
+Package: webrtc
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: Tong <hetongapp@gmail.com>
+Installed-Size: 227029
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libjpeg8 (>= 8c), libstdc++6 (>= 5.2)
+Filename: ./webrtc_1.0.0-1_amd64.deb
+Size: 25484736
+MD5sum: 7e5544abb00d2eafc948f8d7d7529383
+SHA1: 3e5f93e3c8f855b97732f3798b71c2643d753096
+SHA256: 8ac2b1b1c3ee65dac2596ed40ceda2ebae354a1f73c3e61da4a027c80b2af19d
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: webrtc c++ lib
+ open source
+
