@@ -62,7 +62,8 @@ curl -s --compressed "https://raw.githubusercontent.com/HETONGAPP/mydeb/master/K
 sudo curl -s --compressed -o /etc/apt/sources.list.d/my_list_file.list "https://raw.githubusercontent.com/HETONGAPP/mydeb/master/my_list_file.list"
 ```
 ```bash
-sudo apt update && sudo apt install webrtc
+sudo apt update && sduo apt list --upgradable
+sudo apt install webrtc
 ```
 
 
