@@ -31,14 +31,14 @@ You selected this USER-ID:
 Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? O
 ```
 ```bash
-gpg --export-secret-keys "${EMAIL}" > my-private-key.asc
+gpg --export-secret-keys "hetongapp@gmail.com" > my-private-key.asc
 ```
 ```bash
 gpg --import my-private-key.asc
 ```
 #IN YOUR REPO FOLDER
 ```bash
-gpg --armor --export "${EMAIL}" > /path/to/my_ppa/KEY.gpg 
+gpg --armor --export "hetongapp@gmail.com" > /path/to/my_ppa/KEY.gpg 
 ```
 ```bash
 dpkg-scanpackages --multiversion . > Packages
@@ -46,8 +46,8 @@ gzip -k -f Packages
 ```
 ```bash
 apt-ftparchive release . > Release
-gpg --default-key "${EMAIL}" -abs -o - Release > Release.gpg
-gpg --default-key "${EMAIL}" --clearsign -o - Release > InRelease
+gpg --default-key "hetongapp@gmail.com" -abs -o - Release > Release.gpg
+gpg --default-key "hetongapp@gmail.com" --clearsign -o - Release > InRelease
 ```
 ```bash
 echo "deb [signed-by=/etc/apt/trusted.gpg.d/mydeb.gpg] https://raw.githubusercontent.com/HETONGAPP/mydeb/master/ /" > my_list_file.list
@@ -74,8 +74,8 @@ gzip -k -f Packages
 
 # Release, Release.gpg & InRelease
 apt-ftparchive release . > Release
-gpg --default-key "${EMAIL}" -abs -o - Release > Release.gpg
-gpg --default-key "${EMAIL}" --clearsign -o - Release > InRelease
+gpg --default-key "hetongapp@gmail.com" -abs -o - Release > Release.gpg
+gpg --default-key "hetongapp@gmail.com" --clearsign -o - Release > InRelease
 ```
 
 #THEN PUSH
