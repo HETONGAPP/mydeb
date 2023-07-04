@@ -3,11 +3,11 @@ Version: 1.0.0
 Architecture: all
 Maintainer: hetongapp@gmail.com
 Installed-Size: 512
-Filename: ./depenences.deb
-Size: 1500
-MD5sum: 714538b1aa8d80c1374dc2db2092bc59
-SHA1: 7ed4b3f07c21eecb90752757dea6364c4a5fd8fd
-SHA256: f6b34e66e4cf26b0ea8c02ffaa027cd22b18dcf7beef813aefd908a9157607a8
+Filename: ./ivero_dependences.deb
+Size: 1560
+MD5sum: 54b8b314e2b7066e1dcc9d06a3bd259d
+SHA1: cb66f2b4821e3cff42acdb68e3f7a6c84a3a9875
+SHA256: bb84053712c780331adde1e7b34d894f408efe3ff8ba5dccd2b08bf30b5ad1fe
 Section: utils
 Priority: optional
 Description: Dependences for Ivero 3D Scanner
