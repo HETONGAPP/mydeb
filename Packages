@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: tong <hetongapp@gmail.com>
 Installed-Size: 10
 Filename: ./depend_1.0.0-1_all.deb
-Size: 2336
-MD5sum: 698be83edb650ea650582e79c4c984a7
-SHA1: d541b007cc1977aacac3f88fe7f793e7032f4050
-SHA256: 442d8873f13f017b4abe72409d994ae4bc768a55f1c204618ff9e041545989d2
+Size: 2332
+MD5sum: 44ae457b0ecebd07767eda4946acdf4c
+SHA1: ccd88de99512c38e81d93c80eee4bfc8e9f7d3b1
+SHA256: f872e084ef2ca6742f4e9bc17ec95729986e0c9fce8a6070899b42fe5c9ace8f
 Section: unknown
 Priority: optional
 Homepage: <insert the upstream URL, if relevant>
