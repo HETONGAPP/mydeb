@@ -1,18 +1,16 @@
-Package: depend
-Version: 1.0.0-1
+Package: ivero-dependences
+Version: 1.0.0
 Architecture: all
-Maintainer: tong <hetongapp@gmail.com>
-Installed-Size: 10
-Filename: ./depend_1.0.0-1_all.deb
-Size: 2332
-MD5sum: 44ae457b0ecebd07767eda4946acdf4c
-SHA1: ccd88de99512c38e81d93c80eee4bfc8e9f7d3b1
-SHA256: f872e084ef2ca6742f4e9bc17ec95729986e0c9fce8a6070899b42fe5c9ace8f
-Section: unknown
+Maintainer: hetongapp@gmail.com
+Installed-Size: 512
+Filename: ./depenences.deb
+Size: 1500
+MD5sum: 714538b1aa8d80c1374dc2db2092bc59
+SHA1: 7ed4b3f07c21eecb90752757dea6364c4a5fd8fd
+SHA256: f6b34e66e4cf26b0ea8c02ffaa027cd22b18dcf7beef813aefd908a9157607a8
+Section: utils
 Priority: optional
-Homepage: <insert the upstream URL, if relevant>
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Dependences for Ivero 3D Scanner
 
 Package: webrtc
 Version: 1.0.1-1
