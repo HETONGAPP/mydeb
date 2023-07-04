@@ -1,3 +1,19 @@
+Package: depend
+Version: 1.0.0-1
+Architecture: all
+Maintainer: tong <hetongapp@gmail.com>
+Installed-Size: 19
+Filename: ./depend_1.0.0-1_all.deb
+Size: 3856
+MD5sum: 2aaa289420132b7702a9e33cc5facce3
+SHA1: 41af15421068cce2d11eab81f8e096d35e589661
+SHA256: b609f1762fde14c6af8a4bd243e1da6a8368f021e509c59826665ca173224a3d
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
 Package: webrtc
 Version: 1.0.1-1
 Architecture: arm64
