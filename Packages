@@ -1,3 +1,18 @@
+Package: ivero-utils
+Version: 1.0.0-1
+Architecture: arm64
+Maintainer: Tong He <hetongapp@gmail.com>
+Installed-Size: 56189
+Filename: ./ivero-utils_1.0.0-1_arm64.deb
+Size: 9977736
+MD5sum: 54154b9a9bfabf43ba9dd0c1388e806d
+SHA1: 6be92a244d3e66731b7dc7082e31b5220221dbb6
+SHA256: 12ad2a2726b26784a577db4bede59ec1c76c7e26b8456278ab842c145aeb3c1e
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Ivero utils
+
 Package: webrtc
 Version: 1.0.1-1
 Architecture: arm64
