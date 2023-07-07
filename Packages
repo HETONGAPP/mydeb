@@ -1,3 +1,25 @@
+Package: IveroSLAM
+Version: 0.1.0
+Architecture: arm64
+Maintainer: Jake McLaughlin
+Filename: ./IveroSLAM_0.1.0_arm64.deb
+Size: 44264080
+MD5sum: a120d83af082c027d1448cbf599ec776
+SHA1: 077922fe55caba0c90c47bb3337d70582b59b4a6
+SHA256: b9c869a0c4afa8564d66977e0af8673667b28eb7bb2f3fc3fd584f5a8f87a52f
+Description: modified orb slam3 for use on the edge2
+
+Package: IveroSLAMros2
+Version: 0.1.0
+Architecture: arm64
+Maintainer: Jake McLaughlin
+Filename: ./IveroSLAM-ros2_0.1.0_arm64.deb
+Size: 357512
+MD5sum: fb59d893ee280189eb80e17a71acd32b
+SHA1: 3b4f07f8882e3d97f2708a5b7eed219be3d6c1cc
+SHA256: 35f2a7f1f25c8bc915edcf1a320ef63fc0e5527aebcfc19b69dfa4e6dd6d89ad
+Description: modified orb slam3 for use on the edge2
+
 Package: ivero-utils
 Version: 1.0.0-1
 Architecture: arm64
