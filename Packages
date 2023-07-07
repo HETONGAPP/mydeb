@@ -2,12 +2,12 @@ Package: ivero-utils
 Version: 1.0.0-1
 Architecture: arm64
 Maintainer: Tong He <hetongapp@gmail.com>
-Installed-Size: 56189
+Installed-Size: 56191
 Filename: ./ivero-utils_1.0.0-1_arm64.deb
-Size: 9977736
-MD5sum: 54154b9a9bfabf43ba9dd0c1388e806d
-SHA1: 6be92a244d3e66731b7dc7082e31b5220221dbb6
-SHA256: 12ad2a2726b26784a577db4bede59ec1c76c7e26b8456278ab842c145aeb3c1e
+Size: 9977838
+MD5sum: dbc93ca7ed6477c34da94d18960bb866
+SHA1: ed0bcbf48f7f3c4d914a640f2643ba8a2017d78a
+SHA256: 8aac471113c9f2d52e84ff6f52cfe9b3a4e36bc1e306af86beaedc2cc1d45aa6
 Section: unknown
 Priority: optional
 Homepage: <insert the upstream URL, if relevant>
