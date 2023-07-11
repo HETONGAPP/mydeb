@@ -1,1 +1,0 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/mydeb.gpg] https://raw.githubusercontent.com/HETONGAPP/mydeb/master/ /
